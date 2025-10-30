@@ -1,0 +1,1 @@
+Image uploads are enabled (Admin → Upload). Files go to /uploads/YYYY/MM, variants 400/800/1600, optional WebP. Admin must be logged in. CSRF protected. .htaccess prevents script execution in uploads.

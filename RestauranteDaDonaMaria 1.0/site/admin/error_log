@@ -1,0 +1,16 @@
+[29-Oct-2025 21:51:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function slugify() in /home4/fsiteons/public_html/maria/site/admin/upload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fsiteons/public_html/maria/site/admin/upload.php on line 27
+[29-Oct-2025 21:51:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function slugify() in /home4/fsiteons/public_html/maria/site/admin/upload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fsiteons/public_html/maria/site/admin/upload.php on line 27
+[29-Oct-2025 21:52:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function slugify() in /home4/fsiteons/public_html/maria/site/admin/upload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fsiteons/public_html/maria/site/admin/upload.php on line 27
+[29-Oct-2025 21:53:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function slugify() in /home4/fsiteons/public_html/maria/site/admin/upload.php:27
+Stack trace:
+#0 {main}
+  thrown in /home4/fsiteons/public_html/maria/site/admin/upload.php on line 27
